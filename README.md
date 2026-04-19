@@ -211,6 +211,15 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[An LLM Agent for Automatic Geospatial Data Analysis](https://arxiv.org/abs/2410.18792)**  
   *Yuxing Chen, Weijie Wang, Sylvain Lobry, Camille Kurtz.* arXiv 2024
 
+## Infrastructure & Tools
+
+### Agent Frameworks & Development Tools
+- **[Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain)** 
+  *Self-evolving AI coding intelligence with TurboQuant infinite memory, genetic algorithm self-evolution, predictive bug detection (Bayesian inference), PageRank knowledge graphs, swarm intelligence, and adversarial defense. TypeScript/Node.js, MIT.*
+
+- **[Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge)** 
+  *50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, and Cline. Features visual dashboard, one-click install, skill doctor for automated diagnosis, and auto-update system. TypeScript/Node.js, MIT.*
+
 ## Evaluation & Benchmarking
 
 ### General Benchmarks
