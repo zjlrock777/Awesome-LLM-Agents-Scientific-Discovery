@@ -214,6 +214,7 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ## Evaluation & Benchmarking
 
 ### General Benchmarks
+- **[REFUTE](https://bgpt.pro/refute)** — Scientific critique & epistemic calibration (judge-free). Whether models overclaim on recent science summaries; critique skill ≠ calibration. [Dataset](https://huggingface.co/datasets/BGPT-OFFICIAL/refute)
 - **[AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)**  
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, et al.* arXiv 2023
 
