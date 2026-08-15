@@ -322,6 +322,7 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ## AI Agent Frameworks & Tools
 
 - **[Bride](https://tools.gracestack.se/bride-live.html)** — Cognitive AI agent with Active Inference, HDC, and anomaly detection for hypothesis generation. [Rust, MIT] `2026`
+- **[Dr. Claw](https://github.com/OpenLAIR/dr-claw)** — Open-source, model-agnostic research workspace for literature survey, ideation, local experiments, analysis, and paper writing, with 100+ bundled research skills. [TypeScript, GPL-3.0/AGPL-3.0] `2026`
 
 ## Contributing
 
@@ -333,7 +334,6 @@ Please feel free to send a pull request if you want to:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 
 
