@@ -47,6 +47,7 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - Democratize access to scientific expertise
 - Foster more efficient use of research resources
 
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) - Open-source agentic software factory with an amazing UI that handles parallel Git worktrees for you, complete with programmatic verifications and fast review loops
 # Awesome LLM Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
   <img src="agents4science.webp" alt="AI Agents for Scientific Discovery" width="600px">
