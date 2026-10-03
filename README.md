@@ -309,6 +309,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://link.springer.com/article/10.1007/s44223-024-00009-0)**  
   *Xinyi Li, Sai Wang, Siqi Zeng, Yu Wu, Yi Yang.* Vicinagearth 2024
 
+- **[LLM Agents: A Survey](https://www.preprints.org/manuscript/202608.0265/v1)**  
+  *Jungseob Lee.* Preprints.org 2026
+
 ### Domain-Specific Reviews
 - **[AI for Biomedicine in the Era of Large Language Models](https://arxiv.org/abs/2403.15673)**  
   *Zhenyu Bi, Sajib Acharjee Dip, Daniel Hajialigol, Sindhura Kommu, et al.* arXiv 2024
