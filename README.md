@@ -140,6 +140,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation Framework](https://arxiv.org/abs/2308.08155)**  
   *Qingyun Wu, Gagan Bansal, Jieyu Zhang, Yiran Wu, et al.* arXiv 2023
 
+- **[Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy](https://arxiv.org/abs/2606.24177)** ([code](https://github.com/AutoResearch-Factory/Agon))  
+  *Youran Sun, Xingyu Ren, Chugang Yi, Jiaxuan Guo, et al.* arXiv 2026
+
 ### Reasoning & Knowledge Systems
 - **[Graph of Thoughts: Solving Elaborate Problems with Large Language Models](https://ojs.aaai.org/index.php/AAAI/article/view/28877)**  
   *Maciej Besta, Nils Blach, Ales Kubicek, Robert Gerstenberger, et al.* AAAI 2024
@@ -171,6 +174,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 
 - **[AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607)** ([code](https://github.com/Daviddjddu/Autonumerics))
   *Jianda Du, Youran Sun, Haizhao Yang.* arXiv 2026
+
+- **[AutoSR: Automatic Symbolic Regression by Searching Research States](https://arxiv.org/abs/2608.16876)** ([code](https://github.com/AutoResearch-Factory/AutoSR))  
+  *Kejia Zhang, Youran Sun, Xingyu Ren, Chugang Yi, Haizhao Yang.* arXiv 2026
 
 ## Domain Applications
 
@@ -284,6 +290,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[Benchmarking large language models as ai research agents](https://arxiv.org/abs/2311.12741)**  
   *Qian Huang, Jian Vora, Percy Liang, Jure Leskovec.* NeurIPS 2023 Workshop
 
+- **[SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents](https://arxiv.org/abs/2610.21082)** ([code](https://github.com/AutoResearch-Factory/SciPIvot))  
+  *Youran Sun, Xingyu Ren, Chugang Yi, Kejia Zhang, et al.* arXiv 2026
+
 ### Domain-Specific Benchmarks
 - **[BioKGBench: A Knowledge Graph Checking Benchmark of AI Agent for Biomedical Science](https://arxiv.org/abs/2407.00466)**  
   *Xinna Lin, Siqi Ma, Junjie Shan, Xiaojing Zhang, et al.* arXiv 2024
@@ -308,6 +317,9 @@ The emergence of AI agents in scientific discovery represents more than just tec
 
 - **[A survey on LLM-based multi-agent systems: workflow, infrastructure, and challenges](https://link.springer.com/article/10.1007/s44223-024-00009-0)**  
   *Xinyi Li, Sai Wang, Siqi Zeng, Yu Wu, Yi Yang.* Vicinagearth 2024
+
+- **[What's Missing in Autonomous Research? A Systematization of Systems, Benchmarks, and Verification](https://haizhaoyang.github.io/research/autoresearch-survey.html)**  
+  *Xingyu Ren, Youran Sun, Chugang Yi, Kejia Zhang, et al.* Preprint 2026
 
 ### Domain-Specific Reviews
 - **[AI for Biomedicine in the Era of Large Language Models](https://arxiv.org/abs/2403.15673)**  
