@@ -163,6 +163,8 @@ The emergence of AI agents in scientific discovery represents more than just tec
   *Yidong Wang, Qi Guo, Wenjin Yao, Hongbo Zhang, et al.* arXiv 2024
 
 ### Experimental Design & Workflow
+- **[Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)**  
+  *Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, et al.* arXiv 2025
 - **[DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)**  
   *Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, et al.* arXiv 2024
 
@@ -269,11 +271,19 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[An LLM Agent for Automatic Geospatial Data Analysis](https://arxiv.org/abs/2410.18792)**  
   *Yuxing Chen, Weijie Wang, Sylvain Lobry, Camille Kurtz.* arXiv 2024
 
+## Infrastructure & Tools
+
+- **[AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents](https://arxiv.org/abs/2502.05957)**  
+  *Jiabin Tang, Tianyu Fan, Chao Huang.* arXiv 2025
+
 ## Evaluation & Benchmarking
 
 ### General Benchmarks
 - **[ClawBench: A Comprehensive Benchmark for Evaluating AI Web Agents](https://arxiv.org/abs/2604.08523)**  
   *Reacher et al.* arXiv 2026. An open benchmark for browser agents on everyday tasks across live websites, with 153 V1 and 130 V2 tasks and reproducible execution traces ([code](https://github.com/reacher-z/ClawBench), [project](https://claw-bench.com/)).
+
+- **[Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs](https://arxiv.org/abs/2502.15224)**  
+  *Tingting Chen, Srinivas Anumasa, Beibei Lin, et al.* arXiv 2025
 
 - **[AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)**  
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, et al.* arXiv 2023
@@ -297,6 +307,10 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ## Surveys & Reviews
 
 ### Comprehensive Surveys
+- **[Towards Scientific Intelligence: A Survey of LLM-based Scientific Agents](https://arxiv.org/abs/2503.24047)**  
+  *Shuo Ren, Pu Jian, Zhenjiang Ren, Chunlin Leng, et al.* arXiv 2025
+- **[Agentic AI for Scientific Discovery: A Survey of Progress, Challenges, and Future Directions](https://arxiv.org/abs/2503.08979)**  
+  *Mourad Gridach, Jay Nanavati, Khaldoun Zine El Abidine, Lenon Mendes, Christina Mack.* arXiv 2025
 - **[Scientific discovery in the age of artificial intelligence](https://www.nature.com/articles/s41586-023-06221-2)**  
   *Hanchen Wang, Tianfan Fu, Yuanqi Du, Wenhao Gao, Kexin Huang, et al.* Nature 2023
 
