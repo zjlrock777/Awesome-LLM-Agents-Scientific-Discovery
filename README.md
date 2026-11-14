@@ -1,3 +1,52 @@
+# Awesome AI Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
+  <img src="agents4science.webp" alt="AI Agents for Scientific Discovery" width="600px">
+</div>
+
+A curated list of papers about AI agents for scientific discovery and research automation.
+
+
+Maintained by [Jieli Zhou](mailto:zhoujieli@sjtu.edu.cn)
+
+If you use this paper list for your research, please cite it using:
+```bibtex
+@misc{zhou2024awesome,
+  title={Awesome AI Agents for Scientific Discovery},
+  author={Zhou, Jieli},
+  year={2024},
+  publisher={GitHub},
+  journal={GitHub repository},
+  howpublished={\url{https://github.com/zhoujieli/Awesome-LLM-Agents-Scientific-Discovery}}
+}
+```
+
+
+## Introduction
+
+The convergence of large language models (LLMs) and autonomous agents has ushered in a new era in scientific discovery, fundamentally transforming how research is conducted across disciplines. This emerging paradigm, articulated in Kitano's seminal "Nobel Turing Challenge" (2021), envisions AI systems capable of making scientific discoveries worthy of Nobel Prize recognition. Recent advances in LLM-based agents have brought us closer to this vision, enabling increasingly sophisticated automation of scientific workflows and decision-making processes.
+
+### Evolution and Current Landscape
+
+The field has evolved rapidly since early visions of AI-driven scientific discovery. While traditional AI systems focused on narrow tasks, modern LLM-based agents demonstrate remarkable capabilities in complex scientific reasoning, experimental design, and hypothesis generation. The breakthrough capabilities of models like GPT-4 have catalyzed this transition, enabling agents to engage in sophisticated scientific discourse, interpret complex data, and even design novel experiments.
+
+### Key Research Directions
+
+Several major research themes have emerged in this space:
+
+1. **Multi-Agent Architectures**: Research has increasingly focused on collaborative multi-agent systems, where specialized agents work together to tackle complex scientific problems.
+
+2. **Domain-Specific Applications**: The healthcare sector has seen particularly rapid adoption, with agents being developed for clinical decision support, medical diagnosis, and healthcare administration.
+
+3. **Scientific Process Automation**: Agents are being developed to automate various aspects of the research pipeline, from literature review and hypothesis generation to experimental design and data analysis.
+
+### Impact and Future Directions
+
+The emergence of AI agents in scientific discovery represents more than just technological advancement; it signals a fundamental shift in how science is conducted. These systems promise to:
+- Accelerate the pace of scientific discovery
+- Enable exploration of previously intractable research questions
+- Democratize access to scientific expertise
+- Foster more efficient use of research resources
+
 # Awesome LLM Agents for Scientific Discovery [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <div align="center">
   <img src="agents4science.webp" alt="AI Agents for Scientific Discovery" width="600px">
@@ -48,11 +97,13 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - Foster more efficient use of research resources
 
 ## Table of Contents
+
 1. [Foundations & Vision](#foundations--vision)
 2. [Core Technologies](#core-technologies)
 3. [Scientific Process Automation](#scientific-process-automation)
 4. [Domain Applications](#domain-applications)
 5. [Infrastructure & Tools](#infrastructure--tools)
+8. [AI Agent Frameworks & Tools](#ai-agent-frameworks--tools)
 6. [Evaluation & Benchmarking](#evaluation--benchmarking)
 7. [Surveys & Reviews](#surveys--reviews)
 
@@ -114,12 +165,14 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ### Experimental Design & Workflow
 - **[Agent Laboratory: Using LLM Agents as Research Assistants](https://arxiv.org/abs/2501.04227)**  
   *Samuel Schmidgall, Yusheng Su, Ze Wang, Ximeng Sun, et al.* arXiv 2025
-  
 - **[DISCOVERYWORLD: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents](https://arxiv.org/abs/2406.06769)**  
   *Peter Jansen, Marc-Alexandre Côté, Tushar Khot, Erin Bransom, et al.* arXiv 2024
 
-- **[Genesis: Towards the Automation of Systems Biology Research](https://arxiv.org/abs/2408.10689)**  
+- **[Genesis: Towards the Automation of Systems Biology Research](https://arxiv.org/abs/2408.10689)**
   *Ievgeniia A Tiukova, Daniel Brunnsåker, Erik Y Bjurström, Alexander H Gower, et al.* arXiv 2024
+
+- **[AutoNumerics: An Autonomous, PDE-Agnostic Multi-Agent Pipeline for Scientific Computing](https://arxiv.org/abs/2602.17607)** ([code](https://github.com/Daviddjddu/Autonumerics))
+  *Jianda Du, Youran Sun, Haizhao Yang.* arXiv 2026
 
 ## Domain Applications
 
@@ -191,8 +244,12 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[CellAgent: An LLM-driven Multi-Agent Framework for Automated Single-cell Data Analysis](https://www.biorxiv.org/content/10.1101/2024.05.13.593861v1)**  
   *Yihang Xiao, Jinyi Liu, Yan Zheng, Xiaohan Xie, et al.* bioRxiv 2024
 
-- **[SeqMate: A Novel Large Language Model Pipeline for Automating RNA Sequencing](https://arxiv.org/abs/2407.03381)**  
+- **[SeqMate: A Novel Large Language Model Pipeline for Automating RNA Sequencing](https://arxiv.org/abs/2407.03381)**
   *Devam Mondal, Atharva Inamdar.* arXiv 2024
+
+- **[ChatSpatial: Schema-Enforced Agentic Orchestration for Reproducible and Cross-Platform Spatial Transcriptomics](https://doi.org/10.64898/2026.02.26.708361)**
+  *Chen Yang, Xianyang Zhang, Jun Chen.* bioRxiv 2026
+  An MCP server that enables spatial transcriptomics analysis via natural language, integrating 60+ methods across Python and R into a single conversational workflow. [Code](https://github.com/cafferychen777/ChatSpatial)
 
 ### Chemistry & Materials Science
 
@@ -217,13 +274,17 @@ The emergence of AI agents in scientific discovery represents more than just tec
 ## Infrastructure & Tools
 
 - **[AutoAgent: A Fully-Automated and Zero-Code Framework for LLM Agents](https://arxiv.org/abs/2502.05957)**  
-  *Jiabin Tang, Tianyu Fan, Chao Huang.* arXiv 2025  
+  *Jiabin Tang, Tianyu Fan, Chao Huang.* arXiv 2025
 
 ## Evaluation & Benchmarking
 
 ### General Benchmarks
+- **[ClawBench: A Comprehensive Benchmark for Evaluating AI Web Agents](https://arxiv.org/abs/2604.08523)**  
+  *Reacher et al.* arXiv 2026. An open benchmark for browser agents on everyday tasks across live websites, with 153 V1 and 130 V2 tasks and reproducible execution traces ([code](https://github.com/reacher-z/ClawBench), [project](https://claw-bench.com/)).
+
 - **[Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs](https://arxiv.org/abs/2502.15224)**  
-  *Tingting Chen, Srinivas Anumasa, Beibei Lin, et al.* arXiv 2024  
+  *Tingting Chen, Srinivas Anumasa, Beibei Lin, et al.* arXiv 2025
+
 - **[AgentBench: Evaluating LLMs as Agents](https://arxiv.org/abs/2308.03688)**  
   *Xiao Liu, Hao Yu, Hanchen Zhang, Yifan Xu, et al.* arXiv 2023
 
@@ -272,6 +333,10 @@ The emergence of AI agents in scientific discovery represents more than just tec
 - **[From LLMs to LLM-based Agents for Software Engineering: A Survey](https://arxiv.org/abs/2408.02479)**  
   *Haolin Jin, Linghan Huang, Haipeng Cai, Jun Yan, et al.* arXiv 2024
 
+## AI Agent Frameworks & Tools
+
+- **[Bride](https://tools.gracestack.se/bride-live.html)** — Cognitive AI agent with Active Inference, HDC, and anomaly detection for hypothesis generation. [Rust, MIT] `2026`
+
 ## Contributing
 
 Please feel free to send a pull request if you want to:
@@ -282,7 +347,6 @@ Please feel free to send a pull request if you want to:
 ## License
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-
 
 
 
